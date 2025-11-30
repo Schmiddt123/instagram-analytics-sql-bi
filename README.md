@@ -42,12 +42,7 @@ Traffic sources
 
 Upload dates (date, month, weekday)
 
-🧱 SQL Data Model
-ig_data (fact table)
-Scripts included:
-create_table_ig_data.sql
-prepare_ig_data.sql
-analyze_ig_data.sql
+🧱 SQL Data Model included.
 
 📈 Key Insights from SQL Analysis
 1. Fitness generates the highest deep engagement (saves + shares).
