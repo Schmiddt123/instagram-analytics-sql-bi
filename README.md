@@ -1,4 +1,4 @@
-📊 Instagram Analytics — SQL, Data Cleaning & BI Dashboard (In Progress)
+📊 Instagram Analytics - SQL, Data Cleaning & BI Dashboard (In Progress)
 
 An end-to-end analytics project based on Instagram performance metrics.
 The goal is to build a complete analytics workflow from raw data to SQL modeling and a BI dashboard.
@@ -43,7 +43,7 @@ Traffic sources
 Upload dates (date, month, weekday)
 
 🧱 SQL Data Model
-ig_data ( fact table )
+ig_data (fact table)
 Scripts included:
 create_table_ig_data.sql
 prepare_ig_data.sql
@@ -105,7 +105,7 @@ Beauty drives the most effective traffic relative to impressions.
 12. Posts with zero hashtags have the highest engagement rate.
 
 Posts using 0 hashtags outperform all other groups with 18.61% ER.
-Moderate hashtag usage (1–5) is the worst-performing group at 13.69%.
+Moderate hashtag usage (1-5) is the worst-performing group at 13.69%.
 
 13. Fitness receives the highest average saves.
 
@@ -121,8 +121,7 @@ Spring months show the strongest engagement peaks.
 
 Finalize Power BI dashboard (visual storytelling, KPIs, themes)
 
-Add DAX measures for CTR, ER trends, and YoY/MoM growth
 
-Publish both Light & Dark dashboard themes
 
-Upload dashboard preview screenshots
+
+
