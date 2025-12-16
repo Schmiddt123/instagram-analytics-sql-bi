@@ -123,7 +123,7 @@ Every insight is backed by SQL code in the repository.
 
 ✔ SQL exploration & insights - completed
 
-⚪ Power BI dashboard — optional (not required)
+⚪ Power BI dashboard - optional (not required)
 
 The SQL layer already provides a comprehensive understanding of performance patterns, so a dashboard is not necessary to complete the analytical objectives of this project.
 
